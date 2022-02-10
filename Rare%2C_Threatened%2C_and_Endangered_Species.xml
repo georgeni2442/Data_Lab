@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?><MD_Metadata xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xalan="http://xml.apache.org/xalan" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns="http://www.isotc211.org/2005/gmd">
+    <fileIdentifier>
+        <gco:CharacterString>f234e82872c64c6fa947d45a32c5cbb0</gco:CharacterString>
+    </fileIdentifier>
+    <language gco:nilReason="missing"/>
+    <characterSet>
+        <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+    </characterSet>
+    <hierarchyLevel>
+        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+    </hierarchyLevel>
+    <contact>
+        <CI_ResponsibleParty>
+            <organisationName>
+                <gco:CharacterString>VT Fish and Wildlife</gco:CharacterString>
+            </organisationName>
+            <contactInfo gco:nilReason="missing"/>
+            <role>
+                <CI_RoleCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact" codeSpace="ISOTC211/19115">pointOfContact</CI_RoleCode>
+            </role>
+        </CI_ResponsibleParty>
+    </contact>
+    <dateStamp>
+        <gco:Date>2021-06-24</gco:Date>
+    </dateStamp>
+    <metadataStandardName>
+        <gco:CharacterString>NAP - Metadata</gco:CharacterString>
+    </metadataStandardName>
+    <metadataStandardVersion>
+        <gco:CharacterString>1.2</gco:CharacterString>
+    </metadataStandardVersion>
+    <identificationInfo>
+        <MD_DataIdentification>
+            <citation>
+                <CI_Citation>
+                    <title>
+                        <gco:CharacterString>Rare, Threatened, and Endangered Species</gco:CharacterString>
+                    </title>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:Date>2021-06-24</gco:Date>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation" codeSpace="ISOTC211/19115">creation</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:Date>2021-06-24</gco:Date>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication" codeSpace="ISOTC211/19115">publication</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <date>
+                        <CI_Date>
+                            <date>
+                                <gco:Date>2021-06-24</gco:Date>
+                            </date>
+                            <dateType>
+                                <CI_DateTypeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision" codeSpace="ISOTC211/19115">revision</CI_DateTypeCode>
+                            </dateType>
+                        </CI_Date>
+                    </date>
+                    <citedResponsibleParty gco:nilReason="missing"/>
+                </CI_Citation>
+            </citation>
+            <abstract>
+                <gco:CharacterString>The Vermont Fish and Wildlife Department's Natural Heritage Inventory (NHI) maintains a database of rare, threatened and endangered species and natural (plant) communities in Vermont. The Department is a member of the network of Natural Heritage Programs and Conservation Data Centres network that collaborates with NatureServe, which is the umbrella organization. The Element Occurrence (EO) records that form the core of the Natural Heritage Inventory database include information on the location, status, characteristics, numbers, condition, and distribution of elements of biological diversity using established Natural Heritage Methodology developed by NatureServe and The Nature Conservancy. An Element Occurrence (EO) is an area of land and/or water in which a species or natural community is, or was, present. An EO should have practical conservation value for the Element as evidenced by potential continued (or historical) presence and/or regular recurrence at a given location. For species Elements, the EO often corresponds with the local population, but when appropriate may be a portion of a population or a group of nearby populations (e.g., metapopulation). For community Elements, the EO may represent a stand or patch of a natural community, or a cluster of stands or patches of a natural community. Because they are defined on the basis of biological information, EOs may cross jurisdictional boundaries. An Element Occurrence record is a data management tool that has both spatial and tabular components including a mappable feature and its supporting database. EOs are typically represented by bounded, mapped areas of land and/or water or, at small scales, the centroid point of this area. EO records are most commonly created for current or historically known occurrences of natural communities or native species of conservation interest.</gco:CharacterString>
+            </abstract>
+            <purpose>
+                <gco:CharacterString>Rare, Threatened and Endangered Species information. Note: This updated dataset does NOT include Significant Natural Community Data. Please download this data separately.</gco:CharacterString>
+            </purpose>
+            <status gco:nilReason="missing"/>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <descriptiveKeywords>
+                <MD_Keywords>
+                    <keyword>
+                        <gco:CharacterString>nodeVTANR</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>isoThemeEcologic</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>newnessUpdated</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Heritage</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Species</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>Fish and Wildlife</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>FWD</gco:CharacterString>
+                    </keyword>
+                    <keyword>
+                        <gco:CharacterString>rte</gco:CharacterString>
+                    </keyword>
+                </MD_Keywords>
+            </descriptiveKeywords>
+            <resourceConstraints>
+                <MD_Constraints>
+                    <useLimitation>
+                        <gco:CharacterString>CC BY-SA</gco:CharacterString>
+                    </useLimitation>
+                </MD_Constraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <accessConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </accessConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <resourceConstraints>
+                <MD_LegalConstraints>
+                    <useConstraints>
+                        <MD_RestrictionCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions" codeSpace="ISOTC211/19115">otherRestrictions</MD_RestrictionCode>
+                    </useConstraints>
+                    <otherConstraints>
+                        <gco:CharacterString>Other Constraints</gco:CharacterString>
+                    </otherConstraints>
+                </MD_LegalConstraints>
+            </resourceConstraints>
+            <language>
+                <LanguageCode codeList="http://www.loc.gov/standards/iso639-2/php/code_list.php" codeListValue="eng" codeSpace="ISO639-2">eng</LanguageCode>
+            </language>
+            <characterSet>
+                <MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8" codeSpace="ISOTC211/19115">utf8</MD_CharacterSetCode>
+            </characterSet>
+            <topicCategory>
+                <MD_TopicCategoryCode>biota</MD_TopicCategoryCode>
+            </topicCategory>
+        </MD_DataIdentification>
+    </identificationInfo>
+    <distributionInfo>
+        <MD_Distribution>
+            <distributionFormat gco:nilReason="missing"/>
+            <transferOptions>
+                <MD_DigitalTransferOptions>
+                    <onLine>
+                        <CI_OnlineResource>
+                            <linkage>
+                                <URL>https://anrmaps.vermont.gov/arcgis/rest/services/Open_Data/OPENDATA_ANR_ECOLOGIC_SP_NOCACHE_v1/MapServer/188</URL>
+                            </linkage>
+                            <protocol gco:nilReason="missing"/>
+                        </CI_OnlineResource>
+                    </onLine>
+                </MD_DigitalTransferOptions>
+            </transferOptions>
+        </MD_Distribution>
+    </distributionInfo>
+    <dataQualityInfo>
+        <DQ_DataQuality>
+            <scope>
+                <DQ_Scope>
+                    <level>
+                        <MD_ScopeCode codeList="http://www.isotc211.org/2005/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset" codeSpace="ISOTC211/19115">dataset</MD_ScopeCode>
+                    </level>
+                </DQ_Scope>
+            </scope>
+            <lineage>
+                <LI_Lineage>
+                    <processStep>
+                        <LI_ProcessStep>
+                            <description>
+                                <gco:CharacterString>Separated out Natural Communities from RTE Species information to ensure a more consistent download from the Open Data Site.</gco:CharacterString>
+                            </description>
+                            <rationale>
+                                <gco:CharacterString>Download failures when trying to download combined RTE/Natural Community dataset.</gco:CharacterString>
+                            </rationale>
+                            <dateTime>
+                                <gco:DateTime>2019-01-09T09:21:00.366-05:00</gco:DateTime>
+                            </dateTime>
+                        </LI_ProcessStep>
+                    </processStep>
+                </LI_Lineage>
+            </lineage>
+        </DQ_DataQuality>
+    </dataQualityInfo>
+</MD_Metadata>
